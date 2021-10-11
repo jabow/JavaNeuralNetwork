@@ -2,4 +2,5 @@ The human brain is extraordinarily impressive, it has been studied for centuries
 
 A digit recognition neural network has been produced, it can classify the 10,000 MNIST test images with an accuracy of 96%, a GUI has also been implemented which allows us to test the digit recognition neural network with a mouse drawn image on a ”paint” like pad, an image selected from a file and also the MNIST test database.
 
+Demo:
 ![Neural Netowrk](https://user-images.githubusercontent.com/34693504/136863101-4a25a5a2-127c-44cb-9af4-5ef307fee0d7.gif)
